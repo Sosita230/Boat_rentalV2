@@ -1,0 +1,1 @@
+ rental_manager.py כפי שנשלח קודם
